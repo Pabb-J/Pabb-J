@@ -33,8 +33,8 @@
   <img  alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> 
   <img  alt="blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
 <br />
-  <img align="right" height="270px" alt="guy" width="350" src="<iframe src="https://giphy.com/embed/WzR8zb0PN6bUmfz4DW" width="480" height="362" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/kiss-messi-trophy-WzR8zb0PN6bUmfz4DW">via GIPHY</a></p>
-" /> </a>
+  <img align="right" height="270px" alt="guy" width="350" src=" src="https://giphy.com/embed/WzR8zb0PN6bUmfz4DW" width="480" height="362" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/kiss-messi-trophy-WzR8zb0PN6bUmfz4DW"></a></p>
+ </a>
 
  </div>
 
