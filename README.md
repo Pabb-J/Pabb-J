@@ -41,6 +41,6 @@ IDEs & Operating Systems </b>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://giphy.com/embed/WzR8zb0PN6bUmfz4DW" width="40" height="40" />
+<img src="https://media.giphy.com/media/cedGxDGpc1Vvx02QHR/giphy.gif" width="40" height="40" />
 
 [linkedin]: https://www.linkedin.com/in/juanpablomeza2022/
