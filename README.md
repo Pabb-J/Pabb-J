@@ -2,7 +2,7 @@
  
 ### Hi there 👋 soy Juan Pablo!
 
-> Me gustaria decirte que soy un exepcional trabajador nato. 
+> Me gustaria decirte que soy un excepcional trabajador nato. 
 <br />
 
 - 🌱 &nbsp;Actualmente mi principal demandante de estudios es el instituto Ort ya que quiero ser un ANALISTA DE SISTEMAS
