@@ -41,8 +41,8 @@ IDEs & Operating Systems </b>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/WzR8zb0PN6bUmfz4DW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/kiss-messi-trophy-WzR8zb0PN6bUmfz4DW">via GIPHY</a></p>
 
+<iframe src="https://giphy.com/embed/WzR8zb0PN6bUmfz4DW" width="480" height="362" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/kiss-messi-trophy-WzR8zb0PN6bUmfz4DW">via GIPHY</a></p>
 
 
 [linkedin]: https://www.linkedin.com/in/juanpablomeza2022/
