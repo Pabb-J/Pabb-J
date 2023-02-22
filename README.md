@@ -10,6 +10,8 @@
 - 📫 También podes contactarme en **pabmeza@outlook.com**
 - 📝 Además estoy estudiado varios cursos de ASP.NET Core MVC, SAP Crystal Reports (entre otros)
 - 💬 Preguntame lo que quieras: "Habla para que yo te conozca" Sócrates. 
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> SOFTWARE SKILLS</b>
 <br>
@@ -25,7 +27,9 @@
   <img  alt="bootstrap" src ="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
  
 </div>
-**IDEs & Operating Systems**:
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>IDEs & Operating Systems </b>
+<br>
+
 
 <div>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
@@ -35,8 +39,8 @@
   <img  alt="blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <img align="right" height="270px" alt="guy" width="350" src=" src="https://giphy.com/embed/WzR8zb0PN6bUmfz4DW" width="480" height="362" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/kiss-messi-trophy-WzR8zb0PN6bUmfz4DW"></a></p>
- </a>
+ <img align="right" height="270px" alt="guy" width="350" src="https://giphy.com/embed/WzR8zb0PN6bUmfz4DW" /> </a>
+
 
  </div>
 
