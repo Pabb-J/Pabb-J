@@ -32,11 +32,11 @@
 <div>
   <img  alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> 
   <img  alt="blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
-  <a href=”#”><img alt=”GitHub” src=”https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  <a href=”#”><img alt=”Git” src=”https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-
- </div>
+<br />
   <img align="right" height="270px" alt="guy" width="350" src="<iframe src="https://giphy.com/embed/WzR8zb0PN6bUmfz4DW" width="480" height="362" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/kiss-messi-trophy-WzR8zb0PN6bUmfz4DW">via GIPHY</a></p>
 " /> </a>
+
+ </div>
+
 
 [linkedin]: https://www.linkedin.com/in/juanpablomeza2022/
