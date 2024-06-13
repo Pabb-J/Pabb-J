@@ -8,8 +8,7 @@
 - 🌱 &nbsp;Actualmente mi principal demandante de estudios es el instituto Ort ya que quiero ser un ANALISTA DE SISTEMAS
 - :computer: &nbsp;Conectemos en **[LinkedIn]**
 - 📫 También podes contactarme en **pabmeza@outlook.com**
-- 📝 Además estoy estudiado varios cursos de ASP.NET Core MVC, SAP Crystal Reports (entre otros)
-- 💬 Preguntame lo que quieras: "Habla para que yo te conozca" Sócrates. 
+ 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
