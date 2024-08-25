@@ -2,10 +2,10 @@
  
 ### Hi there 👋 soy Juan Pablo!
 
-> Me gustaria decirte que soy un excepcional trabajador nato. 
+> Fan de la fantasía y la ciencia ficción pero mas cuerdo que la mitad de la población ;). 
 <br />
 
-- 🌱 &nbsp;Actualmente mi principal demandante de estudios es el instituto Ort ya que quiero ser un ANALISTA DE SISTEMAS
+- 🌱 &nbsp;En camino a ser un ANALISTA DE SISTEMAS
 - :computer: &nbsp;Conectemos en **[LinkedIn]**
 - 📫 También podes contactarme en **pabmeza@outlook.com**
  
