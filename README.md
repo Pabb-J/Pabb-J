@@ -2,7 +2,7 @@
  
 ### Hi there 👋 soy Juan Pablo!
 
-> Fan de la fantasía y la ciencia ficción pero mas cuerdo que la mitad de la población ;). 
+> Fan de la fantasía y la ciencia ficción. ;). 
 <br />
 
 - 🌱 &nbsp;En camino a ser un ANALISTA DE SISTEMAS
