@@ -5,7 +5,7 @@
 > Fan de la fantasía y la ciencia ficción. ;). 
 <br />
 
-- 🌱 &nbsp;En camino a ser un ANALISTA DE SISTEMAS
+- 🌱 &nbsp;Soy ANALISTA DE SISTEMAS! y próximo Licenciado en Inteligencia Artificial.
 - :computer: &nbsp;Conectemos en **[LinkedIn]**
 - 📫 También podes contactarme en **pabmeza@outlook.com**
  
@@ -42,4 +42,4 @@ IDEs & Operating Systems </b>
 
 <img src="https://media.giphy.com/media/cedGxDGpc1Vvx02QHR/giphy.gif" width="40" height="40" />
 
-[linkedin]: https://www.linkedin.com/in/juanpablomeza2022/
+[linkedin]: https://www.linkedin.com/in/juanpablomeza2026/
